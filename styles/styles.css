@@ -8,7 +8,6 @@ body {
   font-size: 1rem;
   line-height: 1;
   background: #b4b4b4 url("../images/pink-flowers.webp");
-  background-attachment: fixed;
   font-family: "Roboto", Arial, sans-serif;
   font-weight: 400;
 }
